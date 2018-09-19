@@ -17,4 +17,8 @@ Tää on uusi ominaisuus.
 tämä on muutos y
 ei shamboattia pls
 juu kylkyyyl
+
 lisää settiä emmätie hyvää koodia
+
+tää on oskun testi, kokeillaan toimiiko
+
